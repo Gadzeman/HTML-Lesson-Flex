@@ -5,7 +5,8 @@
 }
 
 .wrap {
-    margin: auto;
+    margin: 0 auto;
+    width: 600px;
 }
 .header {
     background: yellow;
