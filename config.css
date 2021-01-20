@@ -1,0 +1,48 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.wrap {
+    margin: auto;
+}
+.header {
+    background: yellow;
+    height: 100px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 5px white;
+}
+.menu_post{
+    display: flex;
+}
+.menu {
+    background: rgb(196, 132, 106);
+    height: 500px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 5px white;
+}
+.post {
+    background: cornflowerblue;
+    height: 250px;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 5px white;
+}
+.footer {
+    background: yellow;
+    height: 100px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 5px white;
+}
