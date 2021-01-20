@@ -5,7 +5,7 @@
 }
 
 .wrap {
-    margin: auto;
+    justify-content: center;
 }
 .header {
     background: yellow;
